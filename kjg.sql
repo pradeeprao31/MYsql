@@ -1,0 +1,13 @@
+CREATE TABLE user (
+  id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  name VARCHAR(100) NOT NULL,
+  email VARCHAR(150) NOT NULL,
+  password VARCHAR(100) NOT NULL,
+  contact VARCHAR(15) NOT NULL,
+  address TEXT NOT NULL,
+  dov DATE NOT NULL,
+  gender ENUM('M', 'F', 'o') NOT NULL,
+  status BOOLEAN NOT NULL,
+  PRIMARY KEY (id)
+);
+user

@@ -1,0 +1,19 @@
+INSERT INTO user
+(id,name,email,password,contact,address,dov,gender,status)
+value
+#("1","PRADEEP","pradeep@gail.com","12345678","3344556677","bihar","2003-12-09","M",1),
+#("2","suraj","suraj@gail.com","123456784","3344534677","bettiah","2002-02-01","M",1),
+#("3","saheb","saheb@gail.com","12345448","3344553677","patilar","2003-01-01","M",1),
+#("4","baliram","baliram@gail.com","12345898","3224556677","patna","2001-01-09","M",1),
+#("5","anant","anant@gail.com","12245678","3314556677","bagahe","2005-12-09","M",1),
+#("6","PRADEEP","pradeep@gail.com","13345678","3114556677","math","2004-12-09","M",1),
+("7","anant","anant@gail.com","12245678","3314556677","bagahe","2005-12-09","M",1),
+("8","PRADEEP","pradeep@gail.com","13345678","3114556677","math","2004-12-09","M",1),
+("9","anant","anant@gail.com","12245678","3314556677","bagahe","2005-12-09","M",1),
+("10","PRADEEP","pradeep@gail.com","13345678","3114556677","math","2004-12-09","M",1),
+("11","anant","anant@gail.com","12245678","3314556677","bagahe","2005-12-09","M",1),
+("12","PRADEEP","pradeep@gail.com","13345678","3114556677","math","2004-12-09","M",1),
+("13","anant","anant@gail.com","12245678","3314556677","bagahe","2005-12-09","M",1),
+("14","PRADEEP","pradeep@gail.com","13345678","3114556677","math","2004-12-09","M",1),
+("15","anant","anant@gail.com","12245678","3314556677","bagahe","2005-12-09","M",1),
+("16","PRADEEP","pradeep@gail.com","13345678","3114556677","math","2004-12-09","M",1)
